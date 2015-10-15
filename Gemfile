@@ -17,6 +17,7 @@ gem 'nokogiri'
 gem 'paperclip'
 gem 'buttercms'
 gem 'rails-backbone'
+gem 'react-rails', '~> 1.3.2'
 
 
 group :development, :test do
