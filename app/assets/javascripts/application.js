@@ -19,4 +19,7 @@
 //= require backbone_rails_sync
 //= require backbone_datalink
 //= require backbone/app
+//= require react
+//= require react_ujs
+//= require components
 //= require_tree .
