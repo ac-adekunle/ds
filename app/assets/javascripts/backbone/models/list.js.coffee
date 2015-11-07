@@ -1,7 +1,7 @@
 class List extends Backbone.Model
     url: -> 
         url = "/users/#{@user_id}/lists"
-        url += "/#{@id}" if @id != undefined
+        url += "/#{@list.id}" if @list.id != undefined
         url
   
 
