@@ -1,4 +1,4 @@
-# Second Lead
+# React Experiment for SL
 
 ## Description
 Second Lead is a tool for exploring, tracking, and sharing Asian television dramas. Users will be able to:
